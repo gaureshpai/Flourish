@@ -293,7 +293,6 @@ export default function Home() {
       <div className="fixed inset-0 bg-zinc-950 flex flex-col items-center justify-center z-50">
         <div className="relative">
           <Leaf className="h-20 w-20 text-emerald-500 animate-bounce" />
-          <div className="absolute -inset-2 border-4 border-emerald-500/20 rounded-full animate-ping"></div>
         </div>
         <h2 className="text-2xl font-bold text-emerald-500 mt-4 mb-8">Flourish</h2>
         <div className="w-64 h-3 bg-zinc-800 rounded-full overflow-hidden">
