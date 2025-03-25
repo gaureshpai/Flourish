@@ -16,9 +16,9 @@
     "clsx": "^2.1.1",
     "formik": "^2.4.6",
     "gsap": "^3.12.7",
-    "lru-cache": "^11.0.2",
+    "lru-cache": "^11.1.0",
     "lucide-react": "^0.483.0",
-    "next": "15.2.3",
+    "next": "15.2.4",
     "nodemailer": "^6.10.0",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
@@ -28,12 +28,12 @@
     "yup": "^1.6.1"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.0.14",
-    "@types/node": "^20",
+    "@tailwindcss/postcss": "^4.0.15",
+    "@types/node": "^22",
     "@types/nodemailer": "^6.4.17",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "tailwindcss": "^4.0.14",
+    "tailwindcss": "^4.0.15",
     "typescript": "^5"
   }
 }
